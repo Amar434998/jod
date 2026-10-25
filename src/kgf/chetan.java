@@ -14,5 +14,7 @@ public class chetan {
 		System.out.println("idu motta branch");
 	}
 	
-
+	public void ippoammar () {
+		System.out.println("amaran");
+	}
 }
