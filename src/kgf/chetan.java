@@ -17,4 +17,8 @@ public class chetan {
 	public void ippoammar () {
 		System.out.println("amaran");
 	}
+	public void EIGHGT () {
+		System.out.println("amar5555555555555an");
+	}
+	
 }
